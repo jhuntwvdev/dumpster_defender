@@ -4,10 +4,10 @@ import "fmt"
 
 func main() {
 	fmt.Println("Dare ye enter?")
-	var options int = 5
+	options := true
 	lobbyRoom(options)
 }
 
-func lobbyRoom (options) {
+func lobbyRoom (options bool) {
 	fmt.Println("You enter a creepy lobby")
 }
