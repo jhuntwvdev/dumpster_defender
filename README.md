@@ -1,2 +1,2 @@
 # odin_lab
-lab for odin project
+The quest for ancesteral hacking
