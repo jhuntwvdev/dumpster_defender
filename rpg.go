@@ -10,4 +10,4 @@ func main() {
 
 func lobbyRoom (options bool) {
 	fmt.Println("You enter a creepy lobby")
-}
+
